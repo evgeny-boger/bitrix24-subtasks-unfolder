@@ -4,11 +4,11 @@
 // @version      0.1
 // @description  Automatically unfolds folded tasks to show all the subtasks.
 // @author       Evgeny Boger
-// @include        https://*.bitrix24.ru/*
+// @include      https://*.bitrix24.ru/*
 // @grant        none
-// @run-at document-end
-// @require  https://code.jquery.com/jquery-3.1.1.slim.min.js
-// @require  https://gist.github.com/raw/2625891/waitForKeyElements.js
+// @run-at       document-end
+// @require      https://code.jquery.com/jquery-3.1.1.slim.min.js
+// @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // ==/UserScript==
 
 (function() {
